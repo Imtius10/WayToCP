@@ -7,8 +7,6 @@ int main()
   ios_base::sync_with_stdio(false);
   cin.tie(NULL);
   int t;
-  long long sci=(sqrt(5));
-  int value = static_cast<int>(sci);
-cout<<sci;
+ cout<<(1124)/10<<" "<<1195/10<<nl;
   return 0;
 }
